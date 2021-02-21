@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Thin 👋
 
 <!--
 **TanThinNguyen/TanThinNguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Computer Science student at HCM University of Science. I'm highly interested in Artificial Intelligence. I have basic knowledge of Math, Machine Learning and Deep Learning.
+
+- 👨‍🎓 I'm learning new knowledge everyday 💪
+- 💼 I'm looking for opportunities to become an intern of a company.
+<!-- - 📫 Contact me: [Email](gmail) | [Linkedin](linkedin) | [Instagram](instagram) -->
+
+### Contact me
+
+[<img align="left" alt="TanThin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+[<img align="left" alt="TanThin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TanThin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[gmail]: mailto:ngtanthin21@gmail.com
+[linkedin]: http://www.linkedin.com/in/tanthinnguyen
+[instagram]: https://www.instagram.com/_ng.tthin.21_/
