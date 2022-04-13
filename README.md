@@ -25,8 +25,8 @@ I'm a Computer Science student at HCM University of Science. I'm highly interest
 
 [<img align="left" alt="TanThin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
 [<img align="left" alt="TanThin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="TanThin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="TanThin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 [gmail]: mailto:ngtanthin21@gmail.com
 [linkedin]: http://www.linkedin.com/in/tanthinnguyen
-[instagram]: https://www.instagram.com/_ng.tthin.21_/
+<!-- [instagram]: https://www.instagram.com/_ng.tthin.21_/ -->
