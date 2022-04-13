@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student at HCM University of Science. I'm highly interested in Artificial Intelligence. I have basic knowledge of Math, Machine Learning and Deep Learning.
+I'm a Computer Science student at HCM University of Science. I'm highly interested in Artificial Intelligence and Computer Vision. I have basic knowledge of Math, Machine Learning and Deep Learning.
 
 - 👨‍🎓 I'm learning new knowledge everyday 💪
 - 💼 I'm looking for opportunities to become an AI Engineer.
