@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm a Computer Science student at HCM University of Science. I'm highly interested in Artificial Intelligence. I have basic knowledge of Math, Machine Learning and Deep Learning.
 
 - 👨‍🎓 I'm learning new knowledge everyday 💪
-- 💼 I'm looking for opportunities to become an intern of a company.
+- 💼 I'm looking for opportunities to become an AI Engineer.
 <!-- - 📫 Contact me: [Email](gmail) | [Linkedin](linkedin) | [Instagram](instagram) -->
 
 ### Contact me
