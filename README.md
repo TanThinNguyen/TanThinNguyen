@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student at HCM University of Science. I'm highly interested in Artificial Intelligence and Computer Vision. I have basic knowledge of Math, Machine Learning and Deep Learning.
-
-- 👨‍🎓 I'm learning new knowledge everyday 💪
-- 💼 I'm looking for opportunities to become an AI Engineer.
+I'm a graduate Computer Science student at HCM University of Science. I have knowledge en experience in research and development in the Computer Vision area.
 <!-- - 📫 Contact me: [Email](gmail) | [Linkedin](linkedin) | [Instagram](instagram) -->
 
 ### Contact me
