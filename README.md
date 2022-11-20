@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a graduate Computer Science student at HCM University of Science. I have knowledge en experience in research and development in the Computer Vision area.
+I am a graduate Computer Science student at HCM University of Science. My research interest are Digital Image Processing (including medical images), Computer Vision, Data Science and their applications. I have knowledge and work experience in research and development in Computer Vision area. Recently, I finished my graduate thesis on brain tumor segmentation in magnetic resonance images. I am looking for opportunities for one of the following positions: AI Engineer, Data Scientist, Computer Vision Engineer.
 <!-- - 📫 Contact me: [Email](gmail) | [Linkedin](linkedin) | [Instagram](instagram) -->
 
 ### Contact me
